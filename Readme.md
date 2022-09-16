@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/90795873/190657566-cc7c610e-0c0a-450b-a3b1-ac1c4433afb1.png" width="800px"/>
+<img src="https://user-images.githubusercontent.com/90795873/190657566-cc7c610e-0c0a-450b-a3b1-ac1c4433afb1.png" width="1200px"/>
 
 
 # LOGIN-GAMINGNOW
