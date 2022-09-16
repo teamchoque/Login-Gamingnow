@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="https://github.com/teamchoque/Login-Gamingnow/issues/1#issue-1375999341" width="1200px"/>
+=======
+<img src="https://user-images.githubusercontent.com/90795873/190657566-cc7c610e-0c0a-450b-a3b1-ac1c4433afb1.png" width="1200px"/>
+>>>>>>> a31c86e0548e30565939b70128038cfc40b4ff8d
 
 
 # LOGIN-GAMINGNOW
