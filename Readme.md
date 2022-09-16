@@ -1,5 +1,5 @@
 
-<img src="https://github.com/teamchoque/Login-Gamingnow/issues/1#issue-1375999341" width="1200px"/>
+<img src="https://user-images.githubusercontent.com/90795873/190698969-926aad2c-473a-4132-83dc-4a3f571a85f4.png" width="1200px"/>
 
 # LOGIN-GAMINGNOW
 
