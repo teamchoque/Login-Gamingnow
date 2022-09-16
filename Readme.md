@@ -1,4 +1,4 @@
-<img src="" width="400px"/>
+<img src="https://github.com/teamchoque/Login-Gamingnow/issues/1#issue-1375999341" width="1200px"/>
 
 
 # LOGIN-GAMINGNOW
